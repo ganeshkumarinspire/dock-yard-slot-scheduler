@@ -1,5 +1,9 @@
 # 🚚 Dock & Yard Slot Scheduler
 
+[![Open the live demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dock-yard-slot-scheduler-4hzx46hkp3zzb5pzp5g8rt.streamlit.app/)
+
+**▶️ Try it live: [https://dock-yard-slot-scheduler-4hzx46hkp3zzb5pzp5g8rt.streamlit.app](https://dock-yard-slot-scheduler-4hzx46hkp3zzb5pzp5g8rt.streamlit.app/)** (free demo, no sign-up; demo data resets now and then)
+
 **Book truck slots at warehouse docks and keep track of trucks waiting in the yard.**
 
 A small web app for a warehouse planner: book loading/unloading slots, see the day
